@@ -1,6 +1,8 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2012
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "1.Clients", "1.Clients", "{EAA3FD76-230B-44E9-864D-2C44A9223BCE}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2.Managers", "2.Managers", "{DBB47963-D1DF-4FED-8D63-4CD5F19F88ED}"
@@ -9,9 +11,13 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3.Engines", "3.Engines", "{
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "4.Resource Accessors", "4.Resource Accessors", "{2A24988C-E397-49C1-9320-A421009C55B5}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "5.Shared", "5.Shared", "{DE9BCD0B-2F8E-4AAD-8FC3-B7005B7A18F0}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "5.Service Utilities", "5.Service Utilities", "{DE9BCD0B-2F8E-4AAD-8FC3-B7005B7A18F0}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "9.Tests", "9.Tests", "{6C3CA742-AA58-4241-987E-123B189C63BA}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "6.Common", "6.Common", "{14867FA7-5383-4C96-884A-C3D0A62A9348}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "7.Database", "7.Database", "{5BB73863-1B22-46AA-9B31-F3306963B93E}"
 EndProject
 Global
 	GlobalSection(SolutionProperties) = preSolution
